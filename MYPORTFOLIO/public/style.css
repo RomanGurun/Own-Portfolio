@@ -1,0 +1,351 @@
+html{
+  scroll-behavior:smooth;
+}
+
+.message{
+  font-size: 16px;
+  font-weight: bold;
+  font-family: "Poppins", sans-serif;
+  width: 94%;
+  margin-top: 38px;
+  margin-bottom: -59px;
+  line-height: 0px;
+  text-align: center;  
+}
+#IT{
+  height: 92%;
+    /* border: solid 2px black; */
+    border: solid 2px ba;
+    padding: -72px 0px;
+    margin-bottom: -138px;
+}
+.jumpl{
+float:left;
+}
+.sky{
+  padding-top: 27px!important;
+    float: right;
+    margin-right: 12px !important;
+    padding-right: 0px;
+   
+}
+.sky a{
+  color: rgb(15, 164, 223);
+text-decoration: none;
+}
+#grg{
+
+  width:56px;
+    border-radius: 40px;
+    height: 57px;
+    border: solid 2px black;
+}
+
+*{
+    box-sizing: border-box;
+}
+#photo{
+  /* old */
+/* width: 20%;
+    border: solid 2px black;
+    height: 168px;
+    background-color: blue;
+    border-radius: 122px;
+    display: inline;
+    left: 299px;
+    margin-bottom: -201px;
+    position: relative;
+    top: -193px; */
+/* NEW */
+    width: 17%;
+    border: solid 2px black;
+    height: 148px;
+    background-color: blue;
+    border-radius: 122px;
+    display: inline;
+    left: 299px;
+    margin-bottom: -201px;
+    position: relative;
+    top: -193px;
+
+  }
+nav{
+    display: flex;
+    margin: auto;
+
+/* background-color: #302f2f; */
+/* background-color: rgba(0,0,0,0.5); */
+font-family: 'Courier New', Courier, monospace;
+
+}
+.navbar{
+    /* display: flex;
+    margin: auto; */
+    width: 95%;
+    display: inline-block;
+    margin: 20px 0px;
+  
+  }
+
+  .navbar li{
+
+list-style: none;
+
+padding-top: 17px;
+margin: 0px 5px;
+font-size: 21px;
+font-weight: bold;
+}
+
+#myvideo{
+    /* width:100%;
+    height: 100%; */
+    width: 1245px;
+    height: 100%;
+    margin-left: 4px;
+}
+
+    
+/* COMMENT TO REMOVE VIDEO PLAY/PAUSE BUTTON */
+/* .content {
+  position: relative;
+  bottom: 301px;
+  left: 78px;
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 20%;
+  border-radius: 14px;
+  padding: 21px;
+
+}   */
+.skill{
+  
+  /* border: solid 2px black; */
+  display: flex;
+    margin-top: -281px;
+  padding: 169px 0px;
+  justify-content: space-evenly;
+padding-bottom:100px;
+}
+
+  .bor1{
+    
+    border: solid 35px #FFC800;
+    width: 15.8%;
+    font-weight: bold;
+    font-family:"system-ui";
+    border-radius: 100px;
+    padding: 38px 35px;
+    border-block-end-color:beige; 
+}
+
+  .bor2{
+    border: solid 35px #FFC800;
+    width: 15.8%;
+    border-inline-start-color: beige;
+    font-weight: bold;
+    font-family: "system-ui";
+    border-radius: 100px;
+    padding: 40px 45px;   
+
+
+}
+  .bor3{
+    border: solid 35px beige;
+    font-weight: bold;
+    font-family:"system-ui";
+    width: 15.8%;
+   
+    border-radius: 100px;
+    padding: 38px 25px;
+    border-block-start-color: #FFC800;
+
+  }
+  .bor4{
+    font-weight: bold;
+    font-family: "system-ui";
+    border: solid 35px beige;
+    width: 15.8%;
+    border-radius: 100px;
+    padding: 43px 40px;
+    border-left-color:#FFC800;
+    border-top-color:#FFC800;   
+
+
+}
+  .bor5{
+    border: solid 35px beige;
+    width: 15.8%;
+    font-weight: bold;
+    font-family:"system-ui";
+  
+    border-radius: 100px;
+    padding: 38px 38px;
+    border-block-end-color:#FFC800;
+  }
+  .info{
+    display: inline-block;
+    /* COMPUSLSORY TO MANAGE SPACE */
+    position: relative;
+    top: -450px;
+    left: 180px;
+    z-index: 2;
+    color: #FFC800;
+    
+    font-family:"Poppins", sans-serif;
+  }
+  .first{
+    -webkit-text-stroke-width:1px;
+    text-shadow: 0px 0px 10px rgb(0 0 0 / 30%);
+    -webkit-text-stroke-color:#D77612;
+    /* box-shadow: #FFC800; */
+    color:white;
+font-size: 72px;
+font-weight: 900; 
+}
+  .second{
+    color:#FFC800;
+    font-size: 72px;  
+font-weight:900;
+}
+.fa-map-marker{
+  font-size: 40px;
+    color:#FFC800;
+    font-size: bold;
+    opacity:0.9;
+    padding: 0px 14px;
+    position: relative;
+    top:17px;
+}
+.add{
+color: whitesmoke;
+font-weight: 700;
+
+font-family:"Poppins", sans-serif;
+
+}
+.foot{
+padding: 2px 60px;
+color: whitesmoke;
+font-weight: 500;
+font-family:"Poppins", sans-serif;
+font-size: 15px;
+}
+.fa-volume-control-phone{
+  font-size: 40px;
+    color:#FFC800;
+    font-size: bold;
+    opacity:0.9;
+    padding: 0px 14px;
+    position: relative;
+    top:17px;
+
+}
+.fa-envelope-o{
+  font-size: 40px;
+    color:#FFC800;
+    font-size: bold;
+    opacity:0.9;
+    padding: 0px 14px;
+    position: relative;
+    top:17px;
+
+}
+.fa-facebook{
+  border: solid 8px #FFC800;
+  border-radius: 22px;
+  padding: 1px 4px;
+  margin: 17px 17px; 
+  /* I will consider it */
+  background-color: #FFC800;
+  color:black;
+  -webkit-text-stroke-width: 1px;
+    text-shadow: 0px 0px 10px rgb(0 0 0 / 30%);
+    
+}
+
+.fa-facebook:hover{
+ 
+  border: solid 8px #D77612; 
+  background-color: #D77612;
+  color:black;
+  transition: all 0.4s linear;
+}
+.fa-instagram{
+  -webkit-text-stroke-width: 1px;
+    text-shadow: 0px 0px 10px rgb(0 0 0 / 30%);
+    
+  border: solid 8px #FFC800;
+  border-radius: 22px;
+  padding: 0px 2px;
+  background-color: #FFC800;
+  color:black;
+}
+.fa-instagram:hover{
+  
+  transition: all 0.4s linear;
+  border: solid 8px #D77612; 
+  background-color: #D77612;
+  color:black;
+  
+}
+#sidebar{
+
+  display: grid;
+  position: relative;
+  left: 842px;
+  top: -37px;
+  grid-gap: 6px;
+width: 10%;
+}
+.monk{
+  width: 41%;
+  border-radius: 18px;
+  /* -webkit-text-stroke-width: 1px;
+    stroke-width: 1px;
+    -webkit-text-stroke-color: #D77612;
+    stroke: #D77612;
+    text-shadow: 0px 0px 10px rgba(0,0,0,0.3); */
+}
+.fa-angle-up{
+    background-color: #FFC800;
+    color: white;
+    font-size: 22px;
+    /* width: 20%; */
+    padding: 10px 13px;
+    position: fixed;
+    top: 591px;
+    left: 1085px;
+    border-radius: 23px;
+}
+
+#sidebar a{
+  display: inline;
+}
+
+.sp1{
+
+  font-size: 20px;
+  margin: 0px -18px;
+  font-family:"Poppins", sans-serif;
+
+}
+#sp2 .monk{
+  width: 30%;
+  border-radius: 18px;
+ margin: 10px 3px;
+}
+#sp2{
+  
+  display: flex;
+  /* display: inline; */
+  width: 9%;
+  margin: 6px -23px
+  
+}
+#sp2 a{
+  display: contents;
+}
+.burger{
+  display: none;
+}

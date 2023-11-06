@@ -1,0 +1,530 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+ @media only screen and (max-width:1169px) {
+   .section1{
+   width:73rem;
+   }
+   #contact::before{
+content: "";
+width: 73rem;
+
+   }
+   #thend{
+    width: 73rem;
+   }
+/* *{ */
+    /* display:none; */
+/* } */
+     }
+
+ 
+/* HAMBURGER */
+@media only screen and (max-width:1165px){
+
+    .hideo{
+        display: none;
+    
+    }
+.opact{
+    opacity: 0;
+}
+    .burger{
+    display: inline;
+}
+   
+    
+    #cot{
+        border-top:solid 1px #eaeaea;
+        margin-top: 16px;
+      }
+      
+
+    .navbar{
+        width:95%;
+        display: inline-block;
+        margin: 20px -45px;
+margin-bottom: 0px;
+/* padding: 14px; */
+    }
+.navbar li{
+    padding:4px 0px;
+    
+}
+
+.sky{
+background-color: #eaeaea;
+    float: none;
+    /* display: block; */
+
+    width:72rem;
+   
+    transition:all 0.7s ease-in;
+        /* border:solid 2px black; */
+}
+
+}
+ 
+ 
+
+     /* @media only screen and (max-width:1102px) { */
+/* 
+        *{
+            display: none;
+        } */
+        /* .skill{ */
+            /* width:73rem; */
+        /* } */
+        /* .section1 */
+        /* { */
+            /* width:72.8rem; */
+        
+        /* } */
+/* #contact:before{ */
+/* content: ""; */
+/* width:72.8rem; */
+/* height: 79%; */
+    
+/* } */
+/* *{
+    display: none;
+} */
+    /* }  */
+
+    /* @media screen and (min-width:801px) and (max-width:1200px){
+        *{
+            display: none;
+        }
+
+
+    } */
+
+/* THE PROJECT GOES FIND BY DESCENDING TO ASCENDING MANNER.....LIKE A BUTTER */
+@media screen and (min-width:1266px) and (max-width:1600px){
+    /* *{
+        display: none;
+    } */
+    #myvideo{
+        width:99.6%;
+    }
+    .section1{
+        width:99.9%;
+    }
+    #contact::before{
+     content:"";
+        width:99.9%;
+        height: 31rem;
+    }
+    .last{
+        position: relative;
+    left:544px;
+    }
+    #circle{
+        width:15.4%;
+    }
+
+
+
+
+}
+
+@media screen and (min-width:1305px) and (max-width:1600px){
+
+#circle{
+
+    width:15.2%;
+}
+.info{
+    position:relative;
+    left:250px;
+}
+
+}
+
+
+@media screen and (min-width:1328px) and (max-width:1600px){
+
+    #circle{
+    
+        width:15.1%;
+    }
+    
+    }
+    
+    
+
+@media screen and (min-width:1166px) and (max-width:1265px){
+    *{
+        /* display: none; */
+    }
+#myvideo{
+    width:99.6%;
+}
+.section1{
+    width:99.9%;
+}
+#contact::before{
+ content:"";
+    width:99.9%;
+    height: 31rem;
+}
+.last{
+    position: relative;
+left:544px;
+}
+
+
+
+}
+
+
+
+
+   @media screen and (min-width:349px) and (max-width:1165px){
+*{
+    /* display: none; */
+}
+/* 1111111111 */
+.skill{
+display: flex;
+flex-direction: column;
+}
+.section1{
+    display: flex;
+    flex-direction: column;
+}
+
+#myvideo{
+    width: 1024px;
+    height: 100%;
+    margin-left: 46px;
+}
+/* 111111111 */
+
+nav{
+    width:1245px;
+
+}
+.sky{
+    width:78rem;
+}
+#photo{
+    width:17%;
+}
+
+.info{
+    /* border: solid 4px red; */
+    width:932px;
+}
+#circle{
+    width:15.8%;
+}
+.skill{
+    width:78rem;
+}
+.section1{
+    width: 77.8rem;
+}
+#contact:before{
+    content: "";
+    width:77.8rem;
+    height: 601px;
+}
+#contact{
+    width:78rem;
+}
+.contact-box{
+    width:88%;
+}
+#local{
+    background-color: wheat;
+    /* to identify the width */
+    width: 77.8rem;
+    padding: 93px 44px;
+    margin-top: 142px;
+}
+#thend{
+    width:77.8rem;
+}
+   }
+
+   /* @media screen and (min-width:600px) and (max-width:850px) */
+
+   @media screen and (min-width:200px) and (max-width:1250px)
+{
+/* *{
+    display: none;
+} */
+
+#myvideo{
+    /* cccccc */
+    /* width: 1243px; */
+
+width:1019px;
+    height: 100%;
+    margin-left: 2px;
+}
+#photo{
+    width: 42%;
+    height: 355px;
+    border-radius: 101px;
+    position: relative;
+    left: 228px;
+    top: -235px;
+    margin-bottom: -259px;
+}
+
+
+
+#circle{
+    /* border: solid 58px #FFC800; */
+    font-weight: bold;
+    font-family: "system-ui";
+    border-radius: 0px;
+    text-align: center;
+    font-size: 56px;
+    padding: 38px 35px;
+     /* cccc width: 100%; */
+width:82%;
+margin-bottom:5% ;
+
+}
+.bor1{
+    border: solid 58px #FFC800;
+    border-block-end-color:beige;
+    
+
+}
+.bor2{
+    border: solid 58px #FFC800;
+    border-inline-start-color: beige;
+}
+.bor3{
+    border: solid 58px beige;
+    border-block-start-color: #FFC800;
+    
+}
+.bor4{
+    border: solid 58px beige;
+    border-left-color: #FFC800;
+    border-top-color: #FFC800;    
+}
+.bor5{
+    border: solid 58px beige;
+border-block-end-color: #FFC800;
+
+}
+.first{
+font-size: 76px;
+
+}
+.second{
+font-size: 77px;
+}
+
+.message{
+    font-size: 24px;
+    width:97%;
+}
+.container{
+    width:69%;
+}
+.box-1{
+    font-size: 22px;
+    padding: 12px 24px;
+}
+.box-2{
+    font-size: 22px;
+    padding: 12px 24px;
+}
+.more{
+    position: relative;
+    top: 129px;
+    left: 381px;
+    font-size: 58px;
+
+}
+#sidebar{
+    display: grid;
+    position: relative;
+    left: -139px;
+    top: -206px;
+    grid-gap: 16px;
+    width: 16%;
+}
+.fa-angle-up{
+position: fixed;
+top:508px;
+/* left:1118px; */
+left:900px;
+
+
+}
+/* ccccc */
+.section1{
+    width:64.8rem;
+}
+
+#contact::before{
+
+    content: "";
+    width:64.8rem;
+    height: 601px;
+}
+#local{
+    width:64.8rem;
+}
+#theend{
+    width:64.8rem;
+}
+nav{
+    width:1080px;
+}
+
+.info{
+    /* cc */
+    border: solid 4px red;
+    width: 839px;
+/* ccc */
+
+}
+
+/* cccc */
+
+
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width:348px) {
+    /* *{
+        display: none;
+    } */
+.navbar li{
+    padding: 22px 0px;
+}
+    nav{
+        width:71rem;
+    }
+    .burger{
+        width:11%;
+    }
+    .sp1{
+        margin: 0px 1px;
+        font-size: 27px;
+    }
+    .info{
+        width:35rem;
+    }
+    #photo{
+        width:26%;
+        left: 333px;
+        top:-216px;
+    }
+    .first{
+        font-size: 37px;
+        top:38px;
+        position: relative;
+        left:243px;
+    }
+    .second{
+        display: block;
+        font-size: 35px;
+        position: relative;
+        top:-11px;
+        left:391px;
+    }
+.message{
+    width:56rem;
+}
+.sky{
+    width:73rem;
+
+}
+.container{
+    position: relative;
+    top: 127px;
+    left: 258px;
+    width: 70%;
+}
+.monk{
+    width: 65%;
+}
+.skill{
+    padding-top: 4px;
+}
+#contact:before{
+    content:"";
+    width:72.8rem!important;
+    height: 35rem!important;
+}
+.mess{
+    padding-left: 22rem;
+}
+#contact{
+    width: 100%;
+}
+.shmess{
+    width:69rem;
+margin-top: 13px;
+}
+.contact-box{
+    width: 100%;
+}
+.myform{
+    width:70rem;
+}
+#spread{
+    width:64rem;
+}
+#sp2{
+    margin:5px -1px;
+}
+#text{
+    font-size: 21px;
+}
+#myvideo{
+    width:1156px;
+
+}
+#circle{
+
+    width:16.8%;
+}
+}
+
+
+
+
+@media only screen and (max-width:348px)
+{
+
+*{
+    display:none ;
+}
+
+}
+
+/* 
+
+@media only screen and(max-width:802px){
+    *{
+        display: none;
+    }
+.sky{
+width: 73rem;
+}
+
+}     */
